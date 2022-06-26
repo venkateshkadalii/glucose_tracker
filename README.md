@@ -1,16 +1,19 @@
 # glucose_tracker
 
-A new Flutter project.
+A Flutter Project to Record Glucose readings
 
-## Getting Started
+## Concepts covered
 
-This project is a starting point for a Flutter application.
+- Splash screen
+- Login screen
+- Registration screen
+- Home screen
+- Add entry screen
+- View Readings history screen
+- Theme
 
-A few resources to get you started if this is your first Flutter project:
+## Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Getx
+- SQFlite
+- Hive
