@@ -42,6 +42,7 @@ class NewReadingController extends GetxController {
 
   showSnackbar(String message, {bool isSuccess= false}) {
     Get.snackbar(
+      isSuccess ? "Success" :
       "Required",
       message,
       snackPosition: SnackPosition.BOTTOM,
